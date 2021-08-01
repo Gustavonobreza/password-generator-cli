@@ -1,0 +1,25 @@
+{
+  "name": "password-generator-cli",
+  "version": "0.0.1",
+  "description": "A password generator to be used in the cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gustavonobreza/password-generator-cli.git"
+  },
+  "keywords": [
+    "password",
+    "generator",
+    "cli",
+    "password-generator"
+  ],
+  "author": "Gustavo Alexandre Nobre Mesquita",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Gustavonobreza/password-generator-cli/issues"
+  },
+  "homepage": "https://github.com/Gustavonobreza/password-generator-cli#readme"
+}
