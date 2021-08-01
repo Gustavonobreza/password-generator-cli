@@ -1,5 +1,5 @@
 {
-  "name": "password-generator-cli",
+  "name": "cli-password-generator",
   "version": "0.0.1",
   "description": "A password generator to be used in the cli",
   "main": "bin/index.js",
